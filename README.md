@@ -1,3 +1,3 @@
 # doc2vec
-the example of doc2vec to calculate the similarity of docs
-10.txt is a example of input file
+one of experiments of an paper
+extract the sentences having low similarity with title
